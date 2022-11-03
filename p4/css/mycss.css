@@ -1,0 +1,35 @@
+table{
+    border: 0px transparent;
+    width: 250px;
+    height: 250px;
+}
+
+td {
+    height: 80px; 
+    width: 80px; 
+    background-color: #fff; 
+    border: 0px transparent; 
+    border-radius: 50%; 
+    margin: 4px; 
+    padding: 4px; 
+}
+
+#tictactoe {
+    color: #000;
+    font-weight: 100%;
+    font-size: 40px;
+}
+
+.reset {
+    margin-top: 5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: red;
+    color: white;
+    font-weight: 100%;
+    font-size: 25px; 
+}
+
+ 
