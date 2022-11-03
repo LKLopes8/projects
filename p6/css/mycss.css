@@ -1,0 +1,57 @@
+.masthead {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%),url("baking1.jpg");
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 10rem 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.font {
+    text-align: center;
+    color: white;
+}
+
+h6 {
+    text-align: center;
+    color: darkred;
+    font-size: 30px;
+    border: white;
+    font-weight: 100;
+    margin: 5%;
+    text-align: center;
+}
+
+.container {
+    padding-top: 5%;
+    align-content: center;
+    text-align: center;
+}
+
+#num {
+    text-align: center;
+    margin: 1.5%;
+    width: 10%;
+    height: 5%;
+    background-color: black;
+    color: white;
+    border-color: white
+}
+
+
+.unit {
+    color: white;
+    width: 105%;
+    margin: -3%;
+    height: 50px;
+    background-color: black;
+}
+
+
+table {
+    width: 100%;
+    padding: 5%;
+}
