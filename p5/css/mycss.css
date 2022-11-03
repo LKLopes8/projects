@@ -1,0 +1,97 @@
+h1 {
+    color: white;
+    background-color: black;
+    font-family: Papyrus;
+    font-weight: 200%;
+}
+
+p {
+    color: white;
+    background-color: black;
+    font-family: Papyrus;
+    font: Blippo;
+    font-weight: 200%;
+}
+
+.pic{
+  background: url("guess.png");
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 15rem 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: contain;
+}
+
+.picOne {
+  background: url("levelone.png");
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 15rem 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: contain;
+}
+
+.picTwo {
+  background: url("leveltwo.png");
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 15rem 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: contain;
+}
+
+.picThree {
+  background: url("levelthree.png");
+  position: relative;
+  width: 100%;
+  height: auto;
+  padding: 15rem 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: contain;
+}
+
+.font {
+    color: white;
+    background-color: black;
+    font-family: Papyrus;
+    font-weight: 200%;
+}
+
+.container {
+    text-align: center;
+}
+
+.button {
+    height: 40px; 
+    width: 40px; 
+    color: #000; 
+    border: 0px transparent; 
+    font-size: 20px;
+    border-radius: 30%; 
+    margin: 4px; 
+    padding: 4px; 
+}
+
+.reset {
+    margin-top: 10%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: lightskyblue;
+    color: white;
+    font-weight: 100%;
+    font-size: 25px; 
+    text-align: left;
+}
